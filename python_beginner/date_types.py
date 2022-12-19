@@ -79,8 +79,5 @@
 # print(totalm)
 # print(totald)
 
-x =  int(10)
-y =  int(13)
-
-res =  x / y
-print(res)
+inp = input()
+print(inp , "Answer is ")

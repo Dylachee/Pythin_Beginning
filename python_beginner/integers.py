@@ -101,7 +101,7 @@
 # res = int(num1) % int(num2) * float(num3)
 
 # print(res)
-import math
+
 
 """В переменные leg_a, leg_b запишите два числа, которые будут обозначать два катета прямоугольного треугольника .
 
@@ -111,9 +111,14 @@ Note: Теорема Пифагора:
  a ** 2 + b ** 2 = c ** 2.
 
 """
-from math import hypot ,sqrt
-leg_a = 4 
-leg_b = 5 
-leg_c = pow(leg_a, 2) + pow(leg_b, 2) 
-hypotenuse = hypot(sqrt(leg_c)) 
-print(hypotenuse)
+# from math import hypot ,sqrt
+# leg_a = 4 
+# leg_b = 5 
+# leg_c = pow(leg_a, 2) + pow(leg_b, 2) 
+# hypotenuse = hypot(sqrt(leg_c)) 
+# print(hypotenuse)
+ 
+name = input()
+print("Hello", name)
+name2 = input()
+print("Hello", name2)
