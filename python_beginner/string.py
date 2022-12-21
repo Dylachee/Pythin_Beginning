@@ -92,14 +92,31 @@
 # # print(string2[len(string2)-1])
 # print(string2[-1])
 
-string3 = 'hello world'
-# start = 0
-# stop = 5
-# step = 1
+# string3 = 'hello world'
+# # start = 0
+# # stop = 5
+# # step = 1
 
-# print(string3[start: stop: step])
+# # print(string3[start: stop: step])
 
-# print(string3[::])
+# # print(string3[::])
 
-print(string3[::-1])
+# print(string3[::-1])
 
+"""ecronirovanie"""
+
+
+# print('Hello\n\tworld')
+# """
+# Hello 
+#     world
+# """
+
+# path = "c:\\users\\new\\tanks"
+# print(path)
+
+# "hello world" + "\n" *
+
+a = lower(Hello)
+
+print(a)

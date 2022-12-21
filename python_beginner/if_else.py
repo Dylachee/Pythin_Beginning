@@ -80,7 +80,13 @@
 # elif num > 10:
 #     print("num > 10")
 
-# num = 15
+# num = 15if condition:
+#     action 1 
+# else:
+#     action 2
+
+# action 1 if condition else action 2 
+
 # if num < 20:
 #     print("num < 20")
 # if num > 10:
@@ -151,11 +157,20 @@ not False # False
 # else:
 #     print('Your message is less than 10 ')
 
-msg = input("write message ")
-res = 'Your message longer than 10' if len(msg) > 10 else"Your message is less than 10"
-print(res)
+# msg = input("write message ")
+# res = 'Your message longer than 10' if len(msg) > 10 else"Your message is less than 10"
+# print(res)
 
+# if condition:
+#     action 1 
+# else:
+#     action 2
 
+# action 1 if condition else action 2 
 
-
-
+# if condition:
+#     action 1 
+# elif condition 2:
+#     action 2
+# else:
+#     action 3

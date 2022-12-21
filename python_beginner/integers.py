@@ -118,7 +118,5 @@ Note: Теорема Пифагора:
 # hypotenuse = hypot(sqrt(leg_c)) 
 # print(hypotenuse)
  
-name = input()
-print("Hello", name)
-name2 = input()
-print("Hello", name2)
+a  = "hello"
+print(a)
