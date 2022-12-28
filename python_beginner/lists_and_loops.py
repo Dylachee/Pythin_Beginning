@@ -137,10 +137,16 @@ list2 = [4 , 5 , 6]
 # for num in nums:
 #     print(num)
 
-nums = range(1, 21)
-new_nums = []
-for num in range(1,21):
-    if num % 2 == 0:
-        new_nums.append(num)
+# nums = range(1, 21)
+# new_nums = []
+# for num in range(1,21):
+#     if num % 2 == 0:
+#         new_nums.append(num)
         
-print(new_nums)
+# print(new_nums)nums = range(1, 21)
+# new_nums = []
+# for num in range(1,21):
+#     if num % 2 == 0:
+#         new_nums.append(num)
+        
+# print(new_nums)

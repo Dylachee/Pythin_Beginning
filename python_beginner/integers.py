@@ -118,5 +118,3 @@ Note: Теорема Пифагора:
 # hypotenuse = hypot(sqrt(leg_c)) 
 # print(hypotenuse)
  
-a  = "hello"
-print(a)
